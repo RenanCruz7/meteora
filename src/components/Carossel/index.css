@@ -1,6 +1,4 @@
-.estilo{
-    width: 100vw;    
-}
-.imagem{
-    width: 100vw;
+.estilo img {
+    width: 100%;
+    object-fit: cover;
 }
