@@ -1,4 +1,3 @@
-import React from 'react';
 import 'bootstrap/dist/css/bootstrap.css';
 import Carousel  from 'react-bootstrap/Carousel';
 import Img1 from '../../imagens/Banner carousel 1 _ 1440 (1).png'

@@ -1,0 +1,23 @@
+.tituloCategoria{
+    text-align: center;
+    margin: 74px 0px 32px 0px ;
+}
+
+.Cards{
+    display: flex;
+    justify-content: center;
+}
+
+.moldura{
+    width: 10rem;
+    margin-right: 30px;
+}
+
+.corpoCard{
+    background-color: black;
+}
+
+.tituloCard{
+    color: white;
+    text-align: center;
+}
