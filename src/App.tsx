@@ -2,6 +2,8 @@ import React from 'react';
 import Cabecalho from './components/Cabecalho'
 import Carossel from './components/Carossel';
 import Categorias from './components/Categorias';
+import Produtos from './components/Produtos';
+
 
 function App() {
   return (
@@ -9,6 +11,7 @@ function App() {
       <Cabecalho />
       <Carossel/>
       <Categorias/>
+      <Produtos/>
     </>
   );
 }
